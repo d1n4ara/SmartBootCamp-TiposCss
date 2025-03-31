@@ -1,0 +1,24 @@
+.card{
+    width: 500px;
+    height: fit-content;
+    background-color:beige;
+    border : solid 2px navy;
+    margin: 20px;
+    padding: 40px;
+}
+.border{
+    border-radius: 25px;
+}
+.icone2{
+    width: 115px; 
+    height: 100px; 
+    background-image: url(https://cdn-icons-png.flaticon.com/128/4202/4202839.png);
+    border-radius: 50%;
+}
+.main-color{
+    color: navy;
+}
+p{
+    font-family: monospace;
+    font-size: 15px;
+}
